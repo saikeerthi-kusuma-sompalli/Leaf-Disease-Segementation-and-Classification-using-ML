@@ -51,6 +51,17 @@ used to solve a quadratic programming problem and non-convex, unconstrained mini
 
 The SVM is the most effective method in the classifier process.
 
-# FlowChart
 ![image](https://user-images.githubusercontent.com/39005873/129434821-9f1f0d91-8afb-414f-b62f-c37ffa4da445.png)
 
+# Modules Description:
+
+1. Input Image :
+Used for training the data set. 
+Used for comparison of the diseased leaf and healthy leaf.
+2. Blur Soften Image :
+ Blurring of the image means each pixels of the image gets spread over. 
+Sharpening of the image can be reduced by using blurring and detection can be accurate. 
+Blurring the image helps to reduce the amount of noise in the image. 
+When the image is taken it contains some noise which can make detecting the affected area as tough process. So by blurring the image the noise can be reduced.
+
+![image](https://user-images.githubusercontent.com/39005873/129434891-4b0d7478-7257-450d-a04e-4fee2ee4f6cd.png)
